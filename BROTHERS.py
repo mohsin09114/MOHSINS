@@ -320,7 +320,7 @@ def menu():
                         elif xd in ['5','05']:
                                 gmail()
                         elif xd in ['6','06']:
-                                wx=('Dsj9JMWoixk4Qsje0Ng3nA')
+                                wx=('CiXvCszWOua8dsS6wbaKhw')
                                 os.system(f'xdg-open https://chat.whatsapp.com/CiXvCszWOua8dsS6wbaKhw/{wx}');menu()
                         elif xd in ['7','07']:
                                 os.system('xdg-open https://mediafire.com/file/y1wvgc2zqqunxbn/Mohsin_VPN1.0.apk/file');menu()
